@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! This is Liye's blog.
 
 ### More Information
 
